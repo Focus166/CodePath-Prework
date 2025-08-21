@@ -32,7 +32,29 @@ My First Project: A Simple Button Demo 🎉 - Watch Video
 
 Describe any challenges encountered while building the app.
 
-The main challenge I faced while building this app was that I had no prior experience with Swift. Since it was my first time working with the language, I had to spend extra time learning the basics and understanding how Swift differs from languages I’m more familiar with, such as C++. Fortunately, some of the syntax felt similar to C++, which made the learning process smoother. 
+The main challenge I faced while building this app was that I had no prior experience with Swift. Fortunately, some of the syntax felt similar to C++, which made the learning process smoother. 
+
+
+##App Brainstorming
+
+ 1) Tiktok
+ -Ability to post videos
+ -Like or dislike videos
+ -repost videos
+ 2)Instagram
+ -Post stories
+ -Add highlights/posts
+ -Change profile picture
+ 3)Snapchat
+ -Text other people
+ -Have streaks with each other
+ -Save pictures for memories 
+ 4) Apple Music
+ -Listen to music, suffle
+ -Create playlist with all your favorite music
+ -Have a certain playlist generated for you
+ 
+ I want to build a music app that combines elements of TikTok/Instagram. You'll be able to publish your playlist for others to listen to. I want to implement a like and dislike feature. You'll have a public profile with all the playlists you've created. You'll be able to change how your profile looks, for example, your profile picture or the background color.  
 
 ## License
 
