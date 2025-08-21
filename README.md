@@ -41,15 +41,18 @@ The main challenge I faced while building this app was that I had no prior exper
  -Ability to post videos
  -Like or dislike videos
  -repost videos
+ 
  2)Instagram
  -Post stories
  -Add highlights/posts
  -Change profile picture
  3)Snapchat
+ 
  -Text other people
  -Have streaks with each other
  -Save pictures for memories 
  4) Apple Music
+ 
  -Listen to music, suffle
  -Create playlist with all your favorite music
  -Have a certain playlist generated for you
